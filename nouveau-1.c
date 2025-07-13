@@ -41,4 +41,4 @@ void init_CAN1()
 	CAN1->FA1R |= 0x00000001; //active filtre
 	CAN1->FMR &= 0x0; //leave filter init
 	
-	//Version 3.0
+	
